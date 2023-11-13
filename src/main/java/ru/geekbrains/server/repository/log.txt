@@ -1,0 +1,7 @@
+Ivan Ivanovich1 [15:23:42] : Привет
+Ivan Ivanovich2 [15:23:45] : Ghbdtn2
+Ivan Ivanovich3 [15:23:50] : Привет 3
+Ivan Ivanovich1 [15:55:14] : 1
+Ivan Ivanovich2 [15:55:15] : 2
+Ivan Ivanovich3 [15:55:17] : 3
+Ivan Ivanovich1 [15:55:35] : 1221
